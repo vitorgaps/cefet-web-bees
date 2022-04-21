@@ -1,5 +1,5 @@
 # Abelhas 🐝 e suas Castas 🍯
-Uma página sobre abelhas e suas castas.
+Uma página sobre abelhas e suas castas. (Vitor)
 
 ![Resultado final da prática das abelhas](https://raw.githubusercontent.com/fegemo/cefet-web/master/images/pratica-abelhas.png)
 
